@@ -1,0 +1,6 @@
+{
+	"appId": "nilthon.com.mybudget.app",
+	"appName": "MyBudget",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
